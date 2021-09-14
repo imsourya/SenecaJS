@@ -1,0 +1,19 @@
+{
+  "name": "seneca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server01"
+  },
+  "author": "Sauarbh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "seneca": "^3.23.3",
+    "seneca-entity": "^14.1.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.2.1"
+  }
+}
